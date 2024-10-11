@@ -8,3 +8,8 @@
 	path = BundleSolver
 	url = https://github.com/plan4res/BundleSolver
 	branch = master
+
+[submodule "CapacitatedFacilityLocationBlock"]
+	path = CapacitatedFacilityLocationBlock
+	url = https://github.com/plan4res/CapacitatedFacilityLocationBlock
+	branch = master
