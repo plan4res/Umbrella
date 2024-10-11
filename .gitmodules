@@ -3,3 +3,8 @@
 	path = BinaryKnapsackBlock
 	url = https://github.com/plan4res/BinaryKnapsackBlock
 	branch = master
+
+[submodule "BundleSolver"]
+	path = BundleSolver
+	url = https://github.com/plan4res/BundleSolver
+	branch = master
