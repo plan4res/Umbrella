@@ -108,7 +108,7 @@ set(MSVC_RUNTIME_LIBRARY "MultiThreaded$<$<CONFIG:Debug>:Debug>")
 
 # The core library, required by all other SMS++ modules.
 # Requires Boost (headers only), netCDF-C++ and Eigen3.
-add_subdirectory(SMS++)
+add_subdirectory(SMSplusplus)
 
 # Blocks
 add_subdirectory(BinaryKnapsackBlock)
