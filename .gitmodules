@@ -13,3 +13,8 @@
 	path = CapacitatedFacilityLocationBlock
 	url = https://github.com/plan4res/CapacitatedFacilityLocationBlock
 	branch = master
+
+[submodule "InvestmentBlock"]
+	path = InvestmentBlock
+	url = https://github.com/plan4res/InvestmentBlock
+	branch = master
