@@ -28,3 +28,8 @@
 	path = LukFiBlock
 	url = https://github.com/plan4res/LukFiBlock
 	branch = master
+
+[submodule "MCFBlock"]
+	path = MCFBlock
+	url = https://github.com/plan4res/MCFBlock
+	branch = master
